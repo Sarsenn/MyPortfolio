@@ -1,21 +1,4 @@
 .skills {
-	h2 {
-		font-size: 64px;
-		line-height: 1;
-		margin-bottom: 10px;
-		text-align: center;
-		color: $base-800;
-		padding: 30px;
-		small {
-			display: block;
-			font-weight: 100;
-			font-size: 0.5em;
-			color: $base;
-		}
-		@media(max-width:1024px) {
-			font-size: 48px;
-		}
-	}
 	.holder-blue {
 		background-color: $blue-100;
 		border-radius: 30px;
